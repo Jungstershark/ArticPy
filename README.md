@@ -1,7 +1,9 @@
-# ArctiPy    [![GitHub release](https://img.shields.io/github/release/asdfghjkxd/ArticPy?include_prereleases=&sort=semver&color=blue)](https://github.com/asdfghjkxd/ArticPy/releases/)
-[![asdfghjkxd - ArticPy](https://img.shields.io/static/v1?label=asdfghjkxd&message=ArticPy&color=blue&logo=github)](https://github.com/asdfghjkxd/ArticPy "Go to GitHub repo")
-[![stars - ArticPy](https://img.shields.io/github/stars/asdfghjkxd/ArticPy?style=social)](https://github.com/asdfghjkxd/ArticPy)
-[![forks - ArticPy](https://img.shields.io/github/forks/asdfghjkxd/ArticPy?style=social)](https://github.com/asdfghjkxd/ArticPy)
+# ArctiPy    
+[![Jungstershark - ArticPy](https://img.shields.io/static/v1?label=Jungstershark&message=ArticPy&color=blue&logo=github)](https://github.com/Jungstershark/ArticPy "Go to GitHub repo")
+[![stars - ArticPy](https://img.shields.io/github/stars/asdfghjkxd/ArticPy?style=social)](https://github.com/Jungstershark/ArticPy)
+[![forks - ArticPy](https://img.shields.io/github/forks/asdfghjkxd/ArticPy?style=social)](https://github.com/Jungstershark/ArticPy)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+
 
 An app built to simplify and condense NLP tasks into one simple yet powerful Interface. 
 
